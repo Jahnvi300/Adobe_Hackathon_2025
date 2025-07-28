@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "input_documents": [
+      "file1e.pdf",
+      "file2e.pdf",
+      "file3e.pdf",
+      "file4e.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processing_timestamp": "2025-07-28T11:56:55"
+  },
+  "extracted_sections": [
+    {
+      "document": "file3e.pdf",
+      "page_number": 12,
+      "section_title": "Datasets",
+      "importance_rank": 1
+    },
+    {
+      "document": "file4e.pdf",
+      "page_number": 2,
+      "section_title": "Review",
+      "importance_rank": 2
+    },
+    {
+      "document": "file4e.pdf",
+      "page_number": 3,
+      "section_title": "Review",
+      "importance_rank": 3
+    },
+    {
+      "document": "file4e.pdf",
+      "page_number": 5,
+      "section_title": "Review",
+      "importance_rank": 4
+    },
+    {
+      "document": "file4e.pdf",
+      "page_number": 19,
+      "section_title": "Review",
+      "importance_rank": 5
+    },
+    {
+      "document": "file4e.pdf",
+      "page_number": 33,
+      "section_title": "Review",
+      "importance_rank": 6
+    },
+    {
+      "document": "file4e.pdf",
+      "page_number": 12,
+      "section_title": "Predictive Performance",
+      "importance_rank": 7
+    },
+    {
+      "document": "file4e.pdf",
+      "page_number": 4,
+      "section_title": "Machine learning for integrating data in biology and medicine: Principles, practice, and opportunities, Information Fusion 2019",
+      "importance_rank": 8
+    },
+    {
+      "document": "file4e.pdf",
+      "page_number": 7,
+      "section_title": "Machine learning for integrating data in biology and medicine: Principles, practice, and opportunities, Information Fusion 2019",
+      "importance_rank": 9
+    },
+    {
+      "document": "file4e.pdf",
+      "page_number": 34,
+      "section_title": "Machine learning for integrating data in biology and medicine: Principles, practice, and opportunities, Information Fusion 2019",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "file3e.pdf",
+      "parent_section_title": "Datasets",
+      "refined_text": "Davis\n442\n68\n30056 Kiba\n229\n2111\n118254 Allergy\n35\n286\n372",
+      "page_number": 12
+    },
+    {
+      "document": "file4e.pdf",
+      "parent_section_title": "Review",
+      "refined_text": "Step 5: Post-Market and Safety Monitoring Marinka Zitnik - Harvard - marinka@hms.harvard.edu\n2",
+      "page_number": 2
+    },
+    {
+      "document": "file4e.pdf",
+      "parent_section_title": "Review",
+      "refined_text": "Step 5: Post-Market and Safety Monitoring Support decision-making for a new",
+      "page_number": 3
+    },
+    {
+      "document": "file4e.pdf",
+      "parent_section_title": "Review",
+      "refined_text": "Step 5: Post-Market and Safety Monitoring Support decision-making for a new",
+      "page_number": 5
+    },
+    {
+      "document": "file4e.pdf",
+      "parent_section_title": "Review",
+      "refined_text": "Step 5: Post-Market and Safety Monitoring Support decision-making for a new",
+      "page_number": 19
+    },
+    {
+      "document": "file4e.pdf",
+      "parent_section_title": "Review",
+      "refined_text": "Step 5: Post-Market and Safety Monitoring Support decision-making for a new",
+      "page_number": 33
+    },
+    {
+      "document": "file4e.pdf",
+      "parent_section_title": "Predictive Performance",
+      "refined_text": "Task: Given a disease and a drug, predict if the drug could treat the disease Up to 49%",
+      "page_number": 12
+    },
+    {
+      "document": "file4e.pdf",
+      "parent_section_title": "Machine learning for integrating data in biology and medicine: Principles, practice, and opportunities, Information Fusion 2019",
+      "refined_text": "Alzheimer’s Heart disease",
+      "page_number": 4
+    },
+    {
+      "document": "file4e.pdf",
+      "parent_section_title": "Machine learning for integrating data in biology and medicine: Principles, practice, and opportunities, Information Fusion 2019",
+      "refined_text": "“Treats” relationship ? ?",
+      "page_number": 7
+    },
+    {
+      "document": "file4e.pdf",
+      "parent_section_title": "Machine learning for integrating data in biology and medicine: Principles, practice, and opportunities, Information Fusion 2019",
+      "refined_text": "transforming science and medicine Graph ML can unlock these datasets Physical instruments",
+      "page_number": 34
+    }
+  ]
+}
